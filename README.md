@@ -102,7 +102,7 @@ python3 urlanalyzer.py --input <filename.txt> --auth
 
 This is an example of the format that `<filename.txt>` should have:
 
-<img src="../docs/images/../../urlanalyzer/docs/images/filename.png" title="filename">
+<img src="docs/images/filename.png" title="filename">
 
 ## Roadmap
 
